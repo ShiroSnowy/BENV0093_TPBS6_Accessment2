@@ -1,0 +1,4 @@
+Status_Category,Count,Total Capacity (MW),Mean Capacity (MW),Min Capacity (MW),Max Capacity (MW),Median Capacity (MW)
+Planned,130,13672.4,105.17,50.4,525.0,84.3
+Operational,59,6172.9,104.63,50.4,443.0,70.0
+Under Construction,13,1395.8,107.37,50.4,240.0,72.8
